@@ -1,0 +1,3 @@
+Nombre: Juan Manuel cardona patiño
+Codigo: 2369559
+curso:DS2751
